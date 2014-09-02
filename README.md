@@ -3,6 +3,8 @@ mod_mruby_logo
 
 The [mod_mruby](https://github.com/matsumoto-r/mod_mruby) Unofficial Logo
 
+This is drawn based on wonderful design [h2so5/mruby-logo](https://github.com/h2so5/mruby-logo).
+
 ![Logo](https://raw.github.com/bamchoh/mod_mruby_logo/master/mod_mruby_logo.png)
 
 ##Font
